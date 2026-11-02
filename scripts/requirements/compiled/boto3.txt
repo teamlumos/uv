@@ -60,6 +60,6 @@ s3transfer==0.1.13
 setuptools==69.0.3
 six==1.16.0
     # via python-dateutil
-urllib3==2.1.0
+urllib3==2.8.0
     # via requests
 wheel==0.42.0
