@@ -44,7 +44,7 @@ fastjsonschema==2.19.1
     # via nbformat
 fqdn==1.5.1
     # via jsonschema
-idna==3.6
+idna==3.15
     # via
     #   anyio
     #   jsonschema
