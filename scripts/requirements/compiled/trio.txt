@@ -39,7 +39,7 @@ packaging==23.2
     # via sphinx
 pycparser==2.21
     # via cffi
-pygments==2.17.2
+pygments==2.20.0
     # via sphinx
 pyopenssl==23.3.0
 requests==2.31.0
